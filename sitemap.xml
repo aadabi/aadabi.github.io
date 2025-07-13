@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://aliadabi.github.io/</loc>
+        <lastmod>2024-12-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://aliadabi.github.io/aliadabi.png</image:loc>
+            <image:title>Dr. Ali Adabi - Head of Generative AI Delivery</image:title>
+            <image:caption>Professional photo of Dr. Ali Adabi, Head of Generative AI Delivery at Turing AI</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aliadabi.github.io/images/ac_global_demo.png</image:loc>
+            <image:title>Accenture Global Innovation Award</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://aliadabi.github.io/images/tc.jpg</image:loc>
+            <image:title>TechCrunch Disrupt Award</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://aliadabi.github.io/images/icorps.png</image:loc>
+            <image:title>NSF iCorps Award</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://aliadabi.github.io/images/ucscbc.jpg</image:loc>
+            <image:title>UCSC Competition Award</image:title>
+        </image:image>
+    </url>
+</urlset> 

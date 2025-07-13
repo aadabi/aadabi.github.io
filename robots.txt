@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://aliadabi.github.io/sitemap.xml
+
+# Block specific file types if needed
+# Disallow: *.js$
+# Disallow: *.css$
+
+# Allow image crawling
+Allow: /images/
+Allow: /assets/
+
+# Crawl delay (optional - adjust if needed)
+Crawl-delay: 1 
