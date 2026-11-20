@@ -510,7 +510,7 @@ createScrollToTopButton();
 // ===== CONSOLE EASTER EGG =====
 console.log(`
 🚀 Welcome to Ali Adabi's Portfolio!
-💻 Interested in the code? Check out the GitHub: http://github.com/seadsystem
+💻 Interested in the code? Check out the GitHub: https://github.com/seadsystem
 🤝 Let's connect: aliadabi@icloud.com
 🧠 AI • ML • IoT • Innovation
 `);
