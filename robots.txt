@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://aliadabi.github.io/sitemap.xml
+Sitemap: https://aadabi.github.io/sitemap.xml
 
 # Block specific file types if needed
 # Disallow: *.js$
