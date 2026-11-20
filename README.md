@@ -23,7 +23,7 @@ Then open http://localhost:8000.
 
 ## Deployment
 
-Pushing to `main` publishes the site through GitHub Pages.
+Pushing to `master` publishes the site through GitHub Pages.
 
 ## Security
 
